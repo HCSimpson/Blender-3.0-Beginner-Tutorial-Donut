@@ -4,7 +4,7 @@
 This repository contains:
 1. Donut-Cycles.jpg: rendering done in Cycles.
 2. Donut-Evee.jpg: rendering done in Evee.
-3. Donut: actual Blender file.
+3. Donut.blend: actual Blender file.
 
 ## Table of Contents
 * [Background](#a-name"background"abackground)
