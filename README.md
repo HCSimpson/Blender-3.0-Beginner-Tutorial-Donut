@@ -2,8 +2,8 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 <br>
 This repository contains:
-1. Donut-Cycles: rendering done in Cycles.
-2. Donut-Evee: rendering done in Evee.
+1. Donut-Cycles.jpg: rendering done in Cycles.
+2. Donut-Evee.jpg: rendering done in Evee.
 3. Donut: actual Blender file.
 
 ## Table of Contents
