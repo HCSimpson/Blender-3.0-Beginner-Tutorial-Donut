@@ -2,8 +2,8 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 <br>
 This repository contains:
-1. Donut-Cycles.jpg: rendering done in Cycles.
-2. Donut-Evee.jpg: rendering done in Evee.
+1. [Donut-Cycles.jpg](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Cycles.jpg): rendering done in Cycles.
+2. [Donut-Evee.jpg](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg): rendering done in Evee.
 3. Donut.blend: actual Blender file.
 
 ## Table of Contents
@@ -15,5 +15,3 @@ The Blender Guru has returned with his third installment of his popular [Donut T
 
 ## <a name="install"></a>Install
 This project utilizes [Blender](https://www.blender.org/ "Blender") version 3.0.1. Blender is free to use, open sourced, and supported by major hardware vendors such as AMD, Apple, Intel, and NVIDIA. This document utilizes the standards set by RichardLitt and team in the [Standard Readme repository](https://github.com/RichardLitt/standard-readme "Standard Readme repository").
-
-[Donut rendered in Evee](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg)
