@@ -4,7 +4,8 @@
 This repository contains:
 1. [Donut-Cycles.jpg](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Cycles.jpg): rendering done in Cycles.
 2. [Donut-Evee.jpg](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg): rendering done in Evee.
-3. Donut.blend: actual Blender file.
+3. [FinalAnimation.blend0001-0300.mp4](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Frames/FinalAnimation.blend0001-0300.mp4): final animation rendered in Cycles.
+4. Donut.blend: actual Blender file.
 
 ## Table of Contents
 * [Background](#a-name"background"abackground)
