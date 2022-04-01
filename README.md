@@ -16,4 +16,4 @@ The Blender Guru has returned with his third installment of his popular [Donut T
 ## <a name="install"></a>Install
 This project utilizes [Blender](https://www.blender.org/ "Blender") version 3.0.1. Blender is free to use, open sourced, and supported by major hardware vendors such as AMD, Apple, Intel, and NVIDIA. This document utilizes the standards set by RichardLitt and team in the [Standard Readme repository](https://github.com/RichardLitt/standard-readme "Standard Readme repository").
 
-[![Donut rendered in Evee](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg)](https://github.com/RichardLitt/standard-readme)
+[![Donut rendered in Evee](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg)
